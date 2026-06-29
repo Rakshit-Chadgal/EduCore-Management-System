@@ -118,6 +118,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+or click on the link: https://educore-student-management-system.streamlit.app/
+
 ---
 
 # 💻 Tech Stack
